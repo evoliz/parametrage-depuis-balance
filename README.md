@@ -62,7 +62,7 @@ Exemple de restitution dans Evoliz
 
 b. Choix de l'emplacement où vous souhaitez que les fichiers soient disponibles
 
-Pensez à indiquer "\" à la fin (Exemple : C:\Users\nom\Documents\EXPORT MACRO\)
+Pensez à indiquer "\\" à la fin (Exemple : C:\Users\nom\Documents\EXPORT MACRO\\)
 
 c. Choix d'indiquer un compte comptable de TVA sur les achats : "Oui" ou "Non"
 
@@ -118,10 +118,14 @@ Copier et coller les valeurs de ces deux colonnes dans le fichier EvolizBalance 
 
 Onglet Notes dans les cases bleues : 
 
-a. Indiquer le code 1, 2 ou 3 
+a. Indiquer le code 1, 2 ou 3
+
 b. Indiquer le répertoire de sorties des fichiers et mettre \ à la fin 
+
 c. Tva sur les achats indiquer : Oui ou Non
+
 d. Indiquer la longueur des comptes exemple : (6 à 11)
+
 e. Valider ou indiquer les comptes de tva sur Achats souhaités pour chaque type d'achat
 
 
