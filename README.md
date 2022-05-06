@@ -166,7 +166,8 @@ Les fichiers peuvent être importés.
 
 ### Si vous n'avez pas opté pour la remise à zéro
 
-Avant de réaliser l'import, il est nécessaire de remettre à zéro les listes par défaut. Sélectionner tous les codes (sélection multiple en cochant la case dans la ligne en tête) cliquer sur supprimer
+Avant de réaliser l'import, il est nécessaire de remettre à zéro les listes par défaut. Sélectionner tous les codes (sélection multiple en cochant la case dans la ligne en tête) cliquer sur supprimer.
+
 Ensuite réaliser les imports comme indiqué ci-dessus sauf pour les taux de TVA. 
 
 - Pour les taux de TVA **utilisé** sur les ventes dans le cadre de l'activité de votre client : Paramètres > Gestion > Taux de TVA > cliquer sur taux de TVA > Affecté le compte comptable de tva > Enregistrer (renouveler l'opération si plusieurs taux de TVA)
