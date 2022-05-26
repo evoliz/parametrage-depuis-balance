@@ -1,4 +1,4 @@
-# Notice d'utilisation
+# Notice d'utilisation v0.10
 
 **"Donnez-nous une balance et nous vous fournirons les paramétrages minimaux pour fonctionner sur Evoliz"**
 
@@ -27,14 +27,14 @@ Ce fichier comporte plusieurs onglets.
 
 | Onglet    | Description |
 | --------- | ------------- |
-| Note      | Paramétrage des données : Code, Répertoires de sortie, Intégration du compte de tva sur les achats, Détermination des comptes de tva (Compte de tva sur les immobilisations, Compte de tva sur les ABS) |
+| Info      | Paramétrage des données : Code, Répertoires de sortie, Intégration du compte de tva sur les achats, Détermination des comptes de tva (Compte de tva sur les immobilisations, Compte de tva sur les ABS) |
 | PCClient  | Intégration de la balance du client issue de l'outil de production  |
 | Param     | Plan comptable et paramétrage "type" permettant de proposer les paramétrages spécifiques au client par comparaison avec sa balance (PC Client)  |
 
 
 ## Descriptif des onglets
 
-### 1 – Notes
+### 1 – Info
 
 Cet onglet reprend par ordre chronologique les étapes à suivre pour utiliser la matrice. 
 
@@ -116,13 +116,13 @@ Copier et coller les valeurs de ces deux colonnes dans le fichier EvolizBalance 
 
 ## Etape 2
 
-Onglet Notes dans les cases bleues : 
+Onglet Info dans les cases bleues : 
 
-a. Indiquer le code 1, 2 ou 3
+a. Sélectionner dans la liste déroulante le code 1, 2 ou 3
 
 b. Indiquer le répertoire de sorties des fichiers et mettre \ à la fin 
 
-c. Tva sur les achats indiquer : Oui ou Non
+c. Sélectionner dans la liste déroulante : Oui (si les achats comportent de la TVA) ou Non (si les achats ne comportent pas de TVA)
 
 d. Indiquer la longueur des comptes exemple : (6 à 11)
 
