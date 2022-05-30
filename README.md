@@ -2,6 +2,10 @@
 
 **"Donnez-nous une balance et nous vous fournirons les paramétrages minimaux pour fonctionner sur Evoliz"**
 
+## Vidéo d'aide
+
+https://vimeo.com/712097869/118f63ebc8
+
 ## Introduction
 
 Ce fichier Excel « EvolizBalance » intègre une macro pour automatiser les paramétrages "Comptabilité" et "Gestion" **lors de la création du dossier** dans Evoliz.
