@@ -2,7 +2,7 @@
 
 **"Donnez-nous une balance et nous vous fournirons les paramétrages minimaux pour fonctionner sur Evoliz"**
 
-## Vidéo d'aide
+## Vidéo d'aide à l'utilisation de la macro
 
 https://vimeo.com/712097869/118f63ebc8
 
